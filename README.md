@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=aiai-github)](https://github.com/aiai-github/github-profile-trophy)
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aiai-github&theme=default)
 
 ![Aiai's GitHub stats](https://github-readme-stats.vercel.app/api?username=aiai-github&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aiai-github&layout=compact)](https://github.com/aiai-github/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=aiai-github)](https://github.com/aiai-github/github-profile-trophy)
