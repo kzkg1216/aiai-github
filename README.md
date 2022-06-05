@@ -1,6 +1,8 @@
 # I'm AIAI
 I'm a engineer.
 
+I'm a member of society for the first year.
+
 I'm currently lerning Kotlin, Tensorflow...
 
 ## Contact
