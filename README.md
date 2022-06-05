@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aiai-github&layout=compact)](https://github.com/aiai-github/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=aiai-github)](https://github.com/aiai-github/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=aiai-github&theme=flat)](https://github.com/aiai-github/github-profile-trophy)
