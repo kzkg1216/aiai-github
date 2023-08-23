@@ -1,10 +1,13 @@
 # I'm kzkg1216
 I have been working as an Android engineer in Japan for one year.
-I'm currently lerning Kotlin, Tensorflow.
 
-## My Skill
+## My Skill (Programming Languages, Frameworks and Tools)
 
-<img src="https://skillicons.dev/icons?i=python,java,kotlin,gcp,firebase,html5,css3" />
+<img src="https://skillicons.dev/icons?i=androidstudio,vscode,github,git,latex,md,java,kotlin,gradle,python,tensorflow,docker,gcp,firebase,html,css" />
+
+## Now training
+
+<img src="https://skillicons.dev/icons?i=linux,kotlin,swift,flutter,c,cpp,cs,python,tensorflow,flask,php,laravel,mysql,sqlite,docker,kubernetes,gcp,firebase,aws,figma" />
 
 ## GitHub Status:
 
