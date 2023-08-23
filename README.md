@@ -27,7 +27,7 @@ I have been working as an Android engineer in Japan for one year.
 
 ## Trophy:
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kzkg1216&no-frame=true&theme=onedark&row=2&column=5&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kzkg1216&no-frame=true&theme=onedark&row=2&column=7&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## GitHub Streak:
 
