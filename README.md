@@ -2,6 +2,10 @@
 I have been working as an Android engineer in Japan for one year.
 I'm currently lerning Kotlin, Tensorflow.
 
+## My Skill
+
+<img src="https://skillicons.dev/icons?i=python,android,java,kotlin" />
+
 ## GitHub Status:
 
 [![kzkg1216's GitHub stats](https://github-readme-stats.vercel.app/api?username=kzkg1216)](https://github.com/anuraghazra/github-readme-stats)
