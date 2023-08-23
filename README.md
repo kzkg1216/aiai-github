@@ -32,3 +32,7 @@ I have been working as an Android engineer in Japan for one year.
 ## GitHub Streak:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kzkg1216&theme=onedark_duo)](https://git.io/streak-stats)
+
+## Spotify:
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31qwr3jxhxtgqgqsk66iccp64twm&unique={true|1|on|yes})
