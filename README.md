@@ -4,7 +4,7 @@ I'm currently lerning Kotlin, Tensorflow.
 
 ## My Skill
 
-<img src="https://skillicons.dev/icons?i=python,android,java,kotlin" />
+<img src="https://skillicons.dev/icons?i=python,java,kotlin,gcp,firebase,html5,css3" />
 
 ## GitHub Status:
 
