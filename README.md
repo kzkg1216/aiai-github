@@ -7,7 +7,7 @@ I have been working as an Android engineer in Japan for one year.
 
 ## Now training
 
-<img src="https://skillicons.dev/icons?i=linux,kotlin,swift,flutter,c,cpp,cs,rust,python,tensorflow,flask,php,laravel,mysql,sqlite,docker,kubernetes,gcp,firebase,aws,figma" />
+<img src="https://skillicons.dev/icons?i=linux,kotlin,swift,flutter,c,cpp,cs,rust,python,tensorflow,flask,php,laravel,mysql,sqlite,githubactions,jenkins,docker,kubernetes,gcp,firebase,aws,figma" />
 
 ## GitHub Status:
 
