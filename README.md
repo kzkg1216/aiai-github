@@ -1,11 +1,11 @@
 # I'm kzkg1216
 I'm currently lerning Kotlin, Tensorflow...
 
-### 📊 GitHub Status 📋:
+### GitHub Status:
 
 [![kzkg1216's GitHub stats](https://github-readme-stats.vercel.app/api?username=kzkg1216)](https://github.com/anuraghazra/github-readme-stats)
 
-### 🏆 Trophy 🏆 :
+### Trophy:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kzkg1216&no-frame=true&theme=onedark&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
