@@ -1,6 +1,14 @@
 # I'm kzkg1216
 I have been working as an Android engineer in Japan for one year.
 
+## Summary Cards
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kzkg1216&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kzkg1216&theme=default&exclude=html,css)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kzkg1216&theme=default&exclude=html,css)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kzkg1216&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kzkg1216&theme=default&utcOffset=8)
+
 ## My Skill (Programming Languages, Frameworks and Tools)
 
 <img src="https://skillicons.dev/icons?i=androidstudio,vscode,github,git,latex,md,java,kotlin,gradle,python,tensorflow,docker,gcp,firebase,html,css" />
