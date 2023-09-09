@@ -1,5 +1,5 @@
 # I'm kzkg1216
-I have been working as an Android engineer in Japan for one year.
+I have been working as an Android engineer in Japan.
 
 ## Summary Cards
 
