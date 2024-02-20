@@ -15,7 +15,7 @@ I have been working as an Android engineer in Japan.
 
 ## Now training
 
-<img src="https://skillicons.dev/icons?i=vim,linux,raspberrypi,kotlin,swift,flutter,c,cpp,cs,rust,python,tensorflow,flask,php,laravel,mysql,sqlite,githubactions,jenkins,docker,kubernetes,gcp,firebase,aws,figma" />
+<img src="https://skillicons.dev/icons?i=cpp,rust,linux,aws" />
 
 ## GitHub Status:
 
