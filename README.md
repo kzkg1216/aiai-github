@@ -1,38 +1,29 @@
-# I'm kzkg1216
-I have been working as an Android engineer in Japan.
+# 👋 Hi there, I'm kzkg1216!
 
-## Summary Cards
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=00C2FF&vCenter=true&width=800&height=60&lines=Hello,+I'm+kzkg1216;Software+Engineer+in+Training;Exploring+Android,+Firebase,+and+AI" alt="Typing SVG">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kzkg1216&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kzkg1216&theme=default&exclude=html,css)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kzkg1216&theme=default&exclude=html,css)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kzkg1216&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kzkg1216&theme=default&utcOffset=8)
+I'm a software engineer in training, currently focusing on mobile and web development. I'm interested in learning **Jetpack Compose** for Android apps and exploring **Firebase** for web technologies. I also have an interest in **AI technologies**, especially **Large Language Models (LLMs)**, **BERT**, and **image processing techniques** using AI. While I'm still gaining experience and haven't worked on large projects yet, I'm excited to keep learning and improving.
 
-## My Skill (Programming Languages, Frameworks and Tools)
+I'm also studying English, as I want to communicate better in the global tech community.
 
-<img src="https://skillicons.dev/icons?i=androidstudio,vscode,github,git,latex,md,java,kotlin,gradle,python,tensorflow,docker,gcp,firebase,html,css" />
+### 🚀 Tech Stack
+- **Languages**: ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+- **Mobile**: ![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white)
+- **Web**: Currently learning ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white)
+- **AI**: Learning about ![LLMs](https://img.shields.io/badge/-LLMs-blue?logo=ai) ![BERT](https://img.shields.io/badge/-BERT-yellow?logo=ai) ![Image Processing](https://img.shields.io/badge/-Image_Processing-green?logo=ai)
 
-## Now training
+### ✨ Learning Journey
+- **📱 Jetpack Compose**: Learning modern UI development for Android.
+- **🔥 Firebase**: Exploring web backend technologies to create scalable apps.
+- **🤖 AI & LLMs**: Understanding AI technologies like Large Language Models, **BERT**, and how AI is applied in **image processing**.
 
-<img src="https://skillicons.dev/icons?i=cpp,rust,linux,aws" />
+### 🔧 Current Focus
+I'm currently working on improving my skills with **Jetpack Compose** for Android development, learning **Firebase** to expand my knowledge of web technologies, and exploring **AI** to understand **LLMs**, **BERT**, and how AI can enhance **image processing**.
 
-## GitHub Status:
+### 📊 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=kzkg1216&show_icons=true&theme=tokyonight&hide=contribs,prs&count_private=true" alt="kzkg1216's GitHub stats" width="60%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kzkg1216&theme=tokyonight" alt="Streak Stats" width="60%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kzkg1216&layout=compact&theme=tokyonight" alt="Top Languages" width="60%" />
 
-[![kzkg1216's GitHub stats](https://github-readme-stats.vercel.app/api?username=kzkg1216)](https://github.com/anuraghazra/github-readme-stats)
-
-## Languages:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kzkg1216&layout=compact&theme=vue-dark&)](https://github.com/anuraghazra/github-readme-stats)
-
-## Trophy:
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=kzkg1216&no-frame=true&theme=onedark&row=2&column=7&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-## GitHub Streak:
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kzkg1216&theme=onedark_duo)](https://git.io/streak-stats)
-
-## Spotify:
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31qwr3jxhxtgqgqsk66iccp64twm&unique={true|1|on|yes})
+---
+"Life is like riding a bicycle. To keep your balance, you must keep moving." - Albert Einstein
